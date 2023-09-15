@@ -1,0 +1,98 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Validate",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.carparkingmanagement.util.Validate",
+      "projectName": "Car Parking Management_34ae2e10"
+    },
+    {
+      "type": "java",
+      "name": "SlotFillView",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.carparkingmanagement.SlotFill.SlotFillView",
+      "projectName": "Car Parking Management_34ae2e10"
+    },
+    {
+      "type": "java",
+      "name": "LoginView",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.carparkingmanagement.Login.LoginView",
+      "projectName": "Car Parking Management_34ae2e10"
+    },
+    {
+      "type": "java",
+      "name": "CarParkingRepository",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.carparkingmanagement.CarParkingRepository.CarParkingRepository",
+      "projectName": "Car Parking Management_34ae2e10"
+    },
+    {
+      "type": "java",
+      "name": "Launch Validate",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.carparkingmanagement.util.Validate",
+      "projectName": "Car Parking Management_4102de69"
+    },
+    {
+      "type": "java",
+      "name": "Launch CarParkingRepository",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.carparkingmanagement.CarParkingRepository.CarParkingRepository",
+      "projectName": "Car Parking Management_4102de69"
+    },
+    {
+      "name": "Java",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [".", "${fileDirname}"]
+    },
+    {
+      "name": "Java Console App",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [".", "${fileDirname}"],
+      "externalConsole": true
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch CustomerView",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.carparkingmanagement.Customer.CustomerView",
+      "projectName": "Car Parking Management_4102de69"
+    },
+    {
+      "type": "java",
+      "name": "Launch LoginView",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.carparkingmanagement.Login.LoginView",
+      "projectName": "Car Parking Management_4102de69"
+    },
+    {
+      "type": "java",
+      "name": "Launch SlotFillView",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.carparkingmanagement.SlotFill.SlotFillView",
+      "projectName": "Car Parking Management_4102de69"
+    }
+  ]
+}

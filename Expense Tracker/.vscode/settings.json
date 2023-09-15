@@ -1,0 +1,9 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\arunm\\Downloads\\mysql-connector-java-8.0.30.jar",
+        "e:\\apache-tomcat-8.5.87-windows-x64\\apache-tomcat-8.5.87\\lib\\servlet-api.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
+}

@@ -1,0 +1,98 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "LoginView",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.expensetracker.Login.LoginView",
+      "projectName": "Expense Tracker_81031618"
+    },
+    {
+      "type": "java",
+      "name": "TransactionsView",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.expensetracker.Transactions.TransactionsView",
+      "projectName": "Expense Tracker_b33ea117"
+    },
+    {
+      "type": "java",
+      "name": "LoginView",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.expensetracker.Login.LoginView",
+      "projectName": "Expense Tracker_b33ea117"
+    },
+    {
+      "type": "java",
+      "name": "TransactionsView",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.expensetracker.Transactions.TransactionsView",
+      "projectName": "Expense Tracker_7c1aadb6"
+    },
+    {
+      "type": "java",
+      "name": "LoginView",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.expensetracker.Login.LoginView",
+      "projectName": "Expense Tracker_7c1aadb6"
+    },
+    {
+      "name": "Java",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [".", "${fileDirname}"]
+    },
+    {
+      "name": "Java Console App",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [".", "${fileDirname}"],
+      "externalConsole": true
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch LoginView",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.expensetracker.Login.LoginView",
+      "projectName": "Expense Tracker_14eeb2de"
+    },
+    {
+      "type": "java",
+      "name": "Launch TransactionsView",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.expensetracker.Transactions.TransactionsView",
+      "projectName": "Expense Tracker_14eeb2de"
+    },
+    {
+      "type": "java",
+      "name": "Launch WalletView",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.expensetracker.Wallet.WalletView",
+      "projectName": "Expense Tracker_14eeb2de"
+    },
+    {
+      "type": "java",
+      "name": "Launch Validate",
+      "request": "launch",
+      "mainClass": "com.MahadevanRDJ.expensetracker.util.Validate",
+      "projectName": "Expense Tracker_14eeb2de"
+    }
+  ]
+}
